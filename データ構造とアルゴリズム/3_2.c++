@@ -11,7 +11,7 @@ int main() {
     cin >> v;
     cout << N << "個の整数を入力してください";
     vector<int> a(N);
-    for (int i = 0; i<N; ++i) cin >> a[i] >> ;
+    for (int i = 0; i<N; ++i) cin >> a[i];
 
     int count=0;
     for (int i = 0 ; i<N; i++){
