@@ -1,0 +1,12 @@
+日本人男性の平均結婚年齢は３５歳だ。
+
+Japanese male marriges when he is averagely 35 years old.
+
+・male >> males 
+	単数形の使用はより個人的な接触を感じさせ、複数形の使用は統計的な一般化と全体的な視点を強調させる。この場合malesが適切。
+・marriges >> get married
+	marrigeは結婚を表す名詞。marryは他動詞で主に誰かと結婚することを表し、get married は自動詞で結婚することを一般的に述べるときに使う。
+・averagely >> on average
+	ほとんど同じ意味だが、averagelyはあまり使われない。
+・　when~ >> at 35
+	whenだと「３５歳になるとき」という時間の流れや成熟の過程を含むので、この場合はat 35のほうが簡潔でいい。
