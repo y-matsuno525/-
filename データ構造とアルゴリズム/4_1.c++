@@ -16,4 +16,4 @@ int main(){
     cin >> n;
     cout << func(n) << "です。";
 
-}10
+}
