@@ -1,0 +1,67 @@
+Original:
+On the occasion of three works published in 1967 his works rapidly received positive feedback and extended these influence more in 1970's.
+
+Corrected:
+On the occasion of three works published in 1967, his works rapidly received positive feedback and extended their influence further in the 1970s.
+
+校正理由:
+
+コンマの使用:
+
+Original: "On the occasion of three works published in 1967 his works..."
+Corrected: "On the occasion of three works published in 1967, his works..."
+理由: 「On the occasion of three works published in 1967」という導入句の後にコンマを入れることで、主節と分ける必要があります。
+所有代名詞の一致:
+
+Original: "...extended these influence..."
+Corrected: "...extended their influence..."
+理由: 「works」は複数形なので、正しい所有代名詞は「these」ではなく「their」です。
+FurtherとMoreの使い分け:
+
+Original: "...extended these influence more in 1970's."
+Corrected: "...extended their influence further in the 1970s."
+理由: この文脈では、「more」よりも「further」が適切です。「further」は時間的な影響の拡大を示します。また、「1970's」は「the 1970s」に訂正すべきです。
+年代の表記:
+
+Original: "...more in 1970's."
+Corrected: "...further in the 1970s."
+理由: 十年間を示す正しい表記はアポストロフィなしの「the 1970s」です。
+最終版:
+On the occasion of three works published in 1967, his works rapidly received positive feedback and extended their influence further in the 1970s.
+
+
+Original:
+Since then, he begun to deviate from, on one hand, linguistic boundary of French, and on the other hand, institutional domain of 'physics'.
+
+Corrected:
+Since then, he has begun to deviate from, on one hand, the linguistic boundary of French, and on the other hand, the institutional domain of physics.
+
+校正理由:
+
+時制の一致:
+
+Original: "he begun to deviate"
+Corrected: "he has begun to deviate"
+理由: 「Since then」の後に続く動詞は現在完了形が適切です。「he has begun」が正しい形です。
+冠詞の使用:
+
+Original: "linguistic boundary of French" and "institutional domain of 'physics'"
+Corrected: "the linguistic boundary of French" and "the institutional domain of physics"
+理由: 「boundary」と「domain」は特定のものを指しているため、定冠詞「the」を使います。また、「physics」は単なる科目名なので、引用符は不要です。
+句読点の配置:
+
+Original: "he begun to deviate from, on one hand, linguistic boundary of French, and on the other hand, institutional domain of 'physics'."
+Corrected: "he has begun to deviate from, on one hand, the linguistic boundary of French, and on the other hand, the institutional domain of physics."
+理由: 句読点はほぼ正しい位置にありますが、文全体の構造を見直し、冠詞の追加などを行うことで、文が自然に流れるようにしました。
+最終版:
+Since then, he has begun to deviate from, on one hand, the linguistic boundary of French, and on the other hand, the institutional domain of physics.
+
+
+
+
+
+
+
+
+
+
