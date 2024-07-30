@@ -1,0 +1,22 @@
+添削後の文
+"At that time, on the one hand, his works were rapidly accepted in the English-speaking world, mainly in American humanities academia. In the late 1970s, 'deconstruction' developed into one of the major intellectual trends."
+
+修正ポイントと理由
+文の区切り：
+
+元の文が長く、一文で複数のアイデアを表現していたため、読みやすさと明確さを向上させるために文を2つに分けました。
+過去形の統一：
+
+「are」を「were」に変更しました。文の他の部分が過去形で書かれているため、時制の一致を保つために修正しました。
+「American humanities academia」の前に「in」を追加：
+
+場所を示すためには前置詞が必要です。「mainly in American humanities academia」とすることで、どこで受け入れられたかを明確にしました。
+コンマの追加：
+
+「At that time, on the one hand,」と「mainly in American humanities academia」の後にコンマを追加し、文章の構造を明確にしました。
+「deconstruction」を引用符で囲む：
+
+「deconstruction」は専門用語であり、特定の概念を指しているため、引用符で囲みました。
+「one of the intellectual trend」から「one of the major intellectual trends」に変更：
+
+「one of the」の後には複数形が続くべきです。また、「major」を追加することで、その流行が重要であることを強調しました。
