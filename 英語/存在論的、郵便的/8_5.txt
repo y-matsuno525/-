@@ -1,0 +1,42 @@
+Before:
+At the same time,his interests opened up to diverse fields of artistic practice such as from poem and painting to architecture and video art.
+
+After:
+At the same time, his interests expanded to diverse fields of artistic practice, ranging from poetry and painting to architecture and video art.
+
+校正の理由:
+
+"his interests opened up":
+
+"opened up" という表現は使えるものの、「expanded」の方がより自然で明確な表現です。「興味が広がった」という意味を伝えるのに適しています。
+"diverse fields of artistic practice such as from poem and painting":
+
+"such as from" は冗長です。"such as" か "ranging from" のどちらか一つを使用すれば十分です。ここでは "ranging from" を使用しました。
+"poem":
+
+"poem" は「詩」という意味ですが、文脈からして「詩のジャンル」を指す「poetry」がより適切です。
+スペースの追加:
+
+"his" の前にスペースがありませんでした。スペースを追加して正しい形式にしました。
+この校正により、文の流れがスムーズになり、意味がより明確に伝わります。
+
+
+
+
+Due to his universality and transdisciplinarity, by the early 1980s, he ended up being widely accepted as one of the leading philosophers of postmodernism.
+
+校正の理由
+"universality" and "transdisciplinarity"の冠詞:
+
+"Due to universality and transdisciplinarity" とするよりも、具体的に彼の特定の特性を指しているため、冠詞 "his" を追加しました。
+"by early 1980s":
+
+"by early 1980s" ではなく、特定の期間を示すために "by the early 1980s" としました。
+"philosopheres" のスペルミス:
+
+正しいスペルは "philosophers" です。
+"leading 'post modern'":
+
+"post modern" は "postmodernism" に修正しました。 "postmodern" は形容詞であり、ここでは名詞として使うべきです。
+"leading philosophers of postmodernism" として、どのような哲学者かを明確にしました。
+このように修正することで、文の意味がより明確で自然な英語表現になります。
