@@ -1,0 +1,29 @@
+Original:
+Instead, he stressed political radicalness which practice of 'deconstruction' imply.
+
+Corrected:
+Instead, he stressed the political radicalness implied by the practice of 'deconstruction'.
+
+理由:
+
+冠詞の追加: "political radicalness" の前に冠詞 "the" を追加しました。具体的な「政治的急進性」について話しているため、冠詞が必要です。
+関係代名詞の修正: "which" を "implied by" に置き換えました。原文の "which practice of 'deconstruction' imply" では文法的に不自然なので、「〜によって示唆される」を意味する "implied by" を使いました。
+動詞の時制一致: "imply" を "implied" に変更しました。"imply" は原文の文脈に合わないため、過去形にする必要があります。
+したがって、文全体がより自然で正確な表現になります。
+
+
+原文
+"As its practice, for example, he conducted a seminar in the Czech Republic under a socialist system and then supported Nelson Mandela in prison and then issued a statement against political repression in Algeria."
+
+校正後
+"As an example of his practices, he conducted a seminar in the Czech Republic under a socialist system, supported Nelson Mandela while he was in prison, and issued a statement against political repression in Algeria."
+
+校正の理由
+Clarity and Flow: 「As its practice, for example,」の表現は少し不自然であり、文の主題を明確にするために「As an example of his practices,」に変更しました。
+Parallel Structure: 「and then ... and then」などの繰り返しは冗長であり、文章の流れを滑らかにするために修正しました。「and issued」とすることで、3つの行動を並列に表現しています。
+Clarity: 「supported Nelson Mandela in prison」の部分を「supported Nelson Mandela while he was in prison」に変更しました。これは、サポートしていた期間を明確にするためです。
+校正後の文は以下のようになります：
+
+"As an example of his practices, he conducted a seminar in the Czech Republic under a socialist system, supported Nelson Mandela while he was in prison, and issued a statement against political repression in Algeria."
+
+このようにすることで、文全体の流れが良くなり、読者にとって理解しやすい文になります。
